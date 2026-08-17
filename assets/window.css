@@ -41,9 +41,9 @@
       background-repeat: no-repeat;
       cursor: pointer;
     }
-    a.window_min { width: 25px; background-image: url('assets/windowcontrol/min.png'); }
-    a.window_min:hover { background-image: url('assets/windowcontrol/minhov.png'); }
-    a.window_resize { width: 25px; background-image: url('assets/windowcontrol/max.png'); }
-    a.window_resize:hover { background-image: url('assets/windowcontrol/maxhov.png'); }
-    a.window_close { width: 45px; background-image: url('assets/windowcontrol/close.png'); }
-    a.window_close:hover { background-image: url('assets/windowcontrol/closehov.png'); }
+    a.window_min { width: 25px; background-image: url('assets/min.png'); }
+    a.window_min:hover { background-image: url('assets/minhov.png'); }
+    a.window_resize { width: 25px; background-image: url('assets/max.png'); }
+    a.window_resize:hover { background-image: url('assets/maxhov.png'); }
+    a.window_close { width: 45px; background-image: url('assets/close.png'); }
+    a.window_close:hover { background-image: url('assets/closehov.png'); }
